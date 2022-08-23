@@ -68,6 +68,7 @@ body{
     color: #8f8f8f;
 }
 #testimonials{
+        z-index: 1;
     font-family: 'Ubuntu',sans-serif;
 background-color: #ef8172;
 color: white;
