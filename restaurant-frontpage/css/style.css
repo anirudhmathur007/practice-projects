@@ -36,3 +36,14 @@ body{
     display: flex;
     justify-content: center;
 }
+#carousal-food{
+    width: 100%;
+    height: 500px;
+}
+#carouselExampleControls{
+    overflow: hidden;
+    height: 400px;
+}
+.carousal-item{
+    height: 400px;
+}

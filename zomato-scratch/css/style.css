@@ -1,0 +1,70 @@
+body{
+    margin: 0%;
+    padding: 0%;
+
+}
+.navbar{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.navbar-brand,.nav-link{
+    color: white
+}
+.nav-item{
+    padding-left: 1%;
+}
+#header{
+    
+    text-align: center;
+   background-image: url("../images/zomato-cover.avif");
+   height: 500px;
+   width: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.logo{
+    margin-top: 50px;
+    height: 60px;
+    width: auto;
+    
+}
+.header-mid-1{
+    color: aliceblue;
+    padding-top: 3%;
+}
+
+.card{
+    border-radius: 1%;
+    text-align: left;
+    width: 120%;
+}
+.card-img-top{
+
+    height: 25vh;
+    object-fit: cover;
+    
+}
+.card-body{
+    position: relative;
+}
+
+#mid-part-1{
+    justify-content: center;
+    display: flex;
+    margin: 2%;
+}
+#mid-part-2{
+    margin: 7% 15%;
+}
+.collection-cards{
+    margin: 1%;
+}
+.card-img-overlay{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    padding: 10px;
+}
+.sss{
+    margin-top: 22%;
+}
